@@ -15,7 +15,6 @@
     "ionicons": "^4.6.3",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-infinite-scroll-component": "^5.0.3",
     "react-router": "^5.1.0",
     "react-router-dom": "^5.1.0",
     "react-scripts": "3.2.0",
