@@ -192,7 +192,7 @@ const Events = () => {
               side: 'end',
               text: 'Buy Subscription!',
               handler: () => {
-                window.open('https://www.vanhack.com', '_blank');
+                window.open('https://vanhack.com/platform/checkout', '_blank');
               }
             },
             {
